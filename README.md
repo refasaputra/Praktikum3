@@ -91,4 +91,10 @@ Ini adalah Capture Project yang dikerjakan saat pertemuan ke-6 Mata Kuliah Bahas
 
 ## Membuat Ketupat Dengan Formatting String ##
 
-![image](https://user-images.githubusercontent.com/115479782/198918357-5acb9636-b3fd-4d17-8474-86e8f15c56a3.png)
+![198918357-5acb9636-b3fd-4d17-8474-86e8f15c56a3 (1)](https://user-images.githubusercontent.com/115479782/198918893-10666b2a-a04e-4554-8b34-0677e0f0a630.png)
+
+Sekian Dari Saya
+
+MUHAMMAD REFA SAPUTRA
+
+NIM: 312210673
