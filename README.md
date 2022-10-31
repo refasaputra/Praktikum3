@@ -77,8 +77,18 @@ Setelah semua proses selesai, run maka akan tampil seperti ini.
 
 ![image](https://user-images.githubusercontent.com/115479782/198917496-71fe2dec-e706-484e-b0bb-ae545a8c63ab.png)
 
-# Screenshots Praktikum Pertemuan 6 #
+# Screenshots Praktikum3 #
 
 Ini adalah Capture Project yang dikerjakan saat pertemuan ke-6 Mata Kuliah Bahasa Pemograman.
 
-Formatting String
+## Formatting String ##
+
+![image](https://user-images.githubusercontent.com/115479782/198918211-f0d39ec4-583b-417f-ada4-f5ef859ad86e.png)
+
+## Penggabungan, Penjumlahan, dan Pembagian ##
+
+![image](https://user-images.githubusercontent.com/115479782/198918287-68dbbf51-a598-4076-b5ad-1018d3a32066.png)
+
+## Membuat Ketupat Dengan Formatting String ##
+
+![image](https://user-images.githubusercontent.com/115479782/198918357-5acb9636-b3fd-4d17-8474-86e8f15c56a3.png)
